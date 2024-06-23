@@ -1,0 +1,16 @@
+SCREEN_WIDTH = 600
+SCREEN_HEIGHT = 600
+BLOCK_SIZE = 20
+FPS = 60
+BACKGROUND_COLOR = (0, 0, 0) # black
+
+APPLE_COLOR = (213, 50, 80) #red
+SNAKE_COLOR = (0, 255, 0) #green
+
+
+
+SNAKE_SPEED = 15
+
+
+FONT_SIZE = 50
+LOSE_MESSAGE = "You Lost! \n Press Q-Quit or C-Play Again"
